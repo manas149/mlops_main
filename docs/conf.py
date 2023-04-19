@@ -231,7 +231,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'mlops_main', u'mlops_main Documentation',
      u"manas", 'mlops_main',
-     'It's a wafer project using MLOPS', 'Miscellaneous'),
+     'Its a wafer project using MLOPS', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

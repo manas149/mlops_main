@@ -1,7 +1,7 @@
 mlops_main
 ==============================
 
-It's a wafer project using MLOPS
+Its a wafer project using MLOPS
 
 Project Organization
 ------------
